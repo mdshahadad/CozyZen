@@ -6,10 +6,10 @@ import { FaUser } from "react-icons/fa";
 
 const Header = () => {
     return (
-        <div className='max-w-7xl mx-auto'>
+        <div className='max-w-7xl mx-auto '>
             <Navbar fluid rounded>
                 <Navbar.Brand href="/">
-                    <img src="../../../public/sofa.jpg" className="mr-2 h-6 sm:h-16" alt="Flowbite React Logo" />
+                    <img src="https://i.postimg.cc/rsTfF3PF/sofa.jpg" className="mr-2 h-6 sm:h-16" alt="Flowbite React Logo" />
                     <span className="self-center whitespace-nowrap text-2xl font-semibold dark:text-white">CozyZen</span>
                 </Navbar.Brand>
                 <div className="flex md:order-2">
