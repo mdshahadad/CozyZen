@@ -24,7 +24,7 @@ const ProductSlider = () => {
         }
     };
     return (
-        <div className='h-screen max-w-7xl mx-auto'>
+        <div className='h-fit max-w-7xl mx-auto mb-32'>
             <div className='mt-28 mb-16'>
                 <h3 className='text-xl'>New Arrival</h3>
                 <h1 className='text-3xl font-semibold'>Choose Your Best Comfort</h1>
@@ -36,7 +36,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -66,7 +66,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -86,7 +86,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -95,7 +95,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -115,7 +115,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -125,7 +125,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -135,7 +135,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
@@ -145,7 +145,7 @@ const ProductSlider = () => {
                         <div className='product-icons'>
                             <ul className='flex bg-black w-full absolute bottom-0 left-0 text-white py-2 justify-center'>
                                 <li className='text-2xl cursor-pointer'><FaRegHeart /></li>
-                                <li className='text-2xl cursor-pointer ml-4'><FaCartPlus /></li>
+                                <li className='text-2xl cursor-pointer ml-8'><FaCartPlus /></li>
                             </ul>
                         </div>
                     </div>
