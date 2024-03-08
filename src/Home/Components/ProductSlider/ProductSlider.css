@@ -1,0 +1,31 @@
+.product img {
+    mix-blend-mode: darken;
+    width: 250px;
+}
+.product {
+    background-color: #f7f7f7;
+    margin: 10px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+.product-icons{
+    display: none;
+}
+
+.product:hover .product-icons{
+    display: block;
+    /* transition: all;
+    transition-duration: 2000ms;
+    transition-property: all; */
+}
+
+/* .product {
+    width: 100%;
+}
+
+@media screen and (max-width: 425px) {
+    .product {
+        width: 300px;
+    }
+} */
